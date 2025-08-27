@@ -194,6 +194,5 @@ No Delete Permissions: Prevents accidental data loss by user
 
 Account-id——mjmarkson (9098-8634-8770)
 [Console sign-in URL](https://mjmarkson.signin.aws.amazon.com/console)
-User name—————— cloudlaunch-user
-Console password—— tmm7M9$_
+
 
