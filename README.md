@@ -89,7 +89,11 @@ Source: 10.0.2.0/24
 
 JSON POLICY
 
+## IAM Policy Configuration
 
+The cloudlaunch-user has the following combined policy attached:
+
+```
 {
     "Version": "2012-10-17",
     "Statement": [
@@ -153,6 +157,7 @@ JSON POLICY
         }
     ]
 }
+```
 
 Policy Contains
 
@@ -186,4 +191,9 @@ S3 Security:**
 **Bucket-Level Permissions:** Granular access control per bucket
 Public Access Limited: Only site bucket is publicly readable others are not
 No Delete Permissions: Prevents accidental data loss by user
+
+Account-id——mjmarkson (9098-8634-8770)
+[Console sign-in URL](https://mjmarkson.signin.aws.amazon.com/console)
+User name—————— cloudlaunch-user
+Console password—— tmm7M9$_
 
